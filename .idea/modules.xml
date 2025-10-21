@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BrincadeirasEmJava.iml" filepath="$PROJECT_DIR$/BrincadeirasEmJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lalala/Lalala.iml" filepath="$PROJECT_DIR$/Lalala/Lalala.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Main/Main.iml" filepath="$PROJECT_DIR$/Main/Main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TrabalhoPOO/TrabalhoPOO.iml" filepath="$PROJECT_DIR$/TrabalhoPOO/TrabalhoPOO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../RevisaoPraProva/untitled/untitled.iml" filepath="$PROJECT_DIR$/../RevisaoPraProva/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrabalhoPOOControle.iml" filepath="$PROJECT_DIR$/TrabalhoPOOControle.iml" />
     </modules>
   </component>
 </project>
